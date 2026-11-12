@@ -2,8 +2,8 @@
 
 Mini assignment Front-End Engineer: komponen untuk memfilter role berdasarkan department.
 
-- **Demo:** [link Vercel]
-- **Desain (Figma):** [https://www.figma.com/design/eYRj9VLZ6IkxGfcAAhUDRd/Test_Sekolah_Karir?node-id=0-1&t=QJMdnOhLmZ6Xz6pp-1]
+- **Demo:** [role-explorer-eight.vercel.app](https://role-explorer-eight.vercel.app)
+- **Desain (Figma):** [Buka desain di Figma](https://www.figma.com/design/eYRj9VLZ6IkxGfcAAhUDRd/Test_Sekolah_Karir?node-id=0-1&t=QJMdnOhLmZ6Xz6pp-1)
 
 ## Cara menjalankan
 
