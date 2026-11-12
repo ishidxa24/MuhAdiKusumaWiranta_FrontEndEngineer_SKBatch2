@@ -1,0 +1,19 @@
+:root {
+  --paper: #EEF0F3;
+  --surface: #FFFFFF;
+  --ink: #172033;
+  --ink-muted: #4A5468;
+  --line: #D5DAE2;
+  --signal: #F2B705;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+}
